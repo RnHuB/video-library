@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    background-color: azure;
+}
+
+.sidebar {
+    width: 12%;
+    height: 100vh;
+    background-color: #cafafe;
+}
+
+.card {
+    width: 88%;
+    height: 100vh;
+}

@@ -1,0 +1,20 @@
+.videocard-container {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+    padding: 30px;
+    height: 100vh;
+    overflow: auto;
+}
+
+.card-container {
+    width: 260px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid grey;
+}
+
+.thumbnail {
+    width: 100%;
+    height: auto;
+}

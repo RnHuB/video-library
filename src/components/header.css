@@ -1,0 +1,58 @@
+.header {
+    width: 100%;
+    height: 7vh;
+    background-color: rgb(53, 83, 83);
+    font-family: sans-serif;
+    color: white;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    justify-content: space-between;
+}
+
+.headerLogo {
+    width: 15%;
+    height: auto;
+}
+
+.headerLogo img {
+    width: 100%;
+    height: auto;
+}
+
+.searchBox {
+    height: 80%;
+    width: 30%;
+    display: flex;
+    border: 0.5px solid white;
+}
+
+.searchBox input {
+    width: 90%;
+    height: 100%;
+}
+
+.search-logo {
+    height: 100%;
+    width: 10%;
+    background-color: white;
+}
+
+
+
+.searchBox input {
+    width: 100%;
+    height: 100%;
+}
+
+.socialContact {
+    width: 20%;
+    height: 80%;
+}
+
+.socialContact img {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
